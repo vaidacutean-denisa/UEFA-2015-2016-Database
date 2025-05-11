@@ -12,16 +12,7 @@ Modelul propus este raportat la sezonul competițional 2015/2016, care include c
 - Prin campionatul intern al unei țări se înțelege exclusiv prima ligă națională. Ligile inferioare nu sunt modelate;
 - Modelul propus se limitează la campionatele masculine de seniori. Prin urmare, sunt excluse din model competițiile de tineret, cele feminine, precum și alte categorii de vârstă sau niveluri competiționale.
 
-
-
-<p align="center">
-    <img src="./drawio/madrid.jpg" width="600" alt="hala madrid">
-</p>
-
-<p align="center"><em>hala madrid!</em></p>
-
-
-
+  
 
 ### 🥅 [EN]
 ## General information
@@ -32,3 +23,11 @@ The proposed model is based on the 2015/2016 football season, which includes the
 ## 🟥 Constraints of the proposed model (which I find necessary to mention here)
 - The domestic league of a country refers exclusively to the top national division. Lower divisions are not included in the model;
 - The model is focused solely senior men's football leagues. Therefore, youth competitions, women's football, and other age categories or competitive levels are not represented.
+
+<br>
+
+<p align="center">
+    <img src="./drawio/madrid.jpg" width="600" alt="hala madrid">
+</p>
+
+<p align="center"><em>hala madrid!</em></p>
