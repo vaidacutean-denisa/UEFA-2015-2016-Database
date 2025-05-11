@@ -13,7 +13,7 @@ Modelul propus este raportat la sezonul competițional 2015/2016, care include c
 - Modelul propus se limitează la campionatele masculine de seniori. Prin urmare, sunt excluse din model competițiile de tineret, cele feminine, precum și alte categorii de vârstă sau niveluri competiționale.
 
 <p align="center">
-    <img src="./drawio/madrid.png" width="400" alt="hala madrid">
+    <img src="./drawio/madrid.jpg" width="400" alt="hala madrid">
 </p>
 
 ### 🥅 [EN]
