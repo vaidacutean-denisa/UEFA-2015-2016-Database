@@ -1,2 +1,3 @@
-# UEFA-2015-2016-Database
-University coursework project that involves the design and implementation of a relational database for managing data related to European football competitions.
+# UEFA 2015/2016 Database 
+
+## Project Overview
